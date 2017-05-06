@@ -1,9 +1,9 @@
 Do not use this Firmware yet if you dont know what you do. It's unfinished and has bugs.
 
 # Mods in work:
-- [Complete menu rework](http://imgur.com/VQiZ4BC) (50% done):
+- [Complete menu rework](http://imgur.com/VQiZ4BC) (80% done):
   - [New leveling assistant (base work by nepeee)](http://i.imgur.com/D5bKZYu.png)
-  - [Overhauled move menu](http://i.imgur.com/48AXclL.png)
+  - Missing: Printing menu, sd menu, preheat menu
   
 - LCD Brightness Control (change the brightness of the lcd)
 - LCD "lockscreen mode" (lcd dims after some time and first touch "wakes" it again and doesnt activate buttons. No more accidental print interupts!)
