@@ -20,7 +20,7 @@ http://www.wanhao3dprinter.com/FAQ/ShowArticle.asp?ArticleID=79
 
 Printer Firmware:
 
-Download Arduino 1.6.4 from the [arduino website](https://www.arduino.cc/en/main/OldSoftwareReleases). (Doesnt compile with newest version)
+Download Arduino IDE from the [arduino website](https://www.arduino.cc/en/Main/Software).
 Connect printer to pc. If you have trouble with drivers look [here](http://3dprinterwiki.info/wiki/wanhao-duplicator-i3-plus/wanhao-i3-plus-documentation-factory-files/ch340x-driver-information/).
 Load Marlin.ino with Arduino. Select Arduino Mega under Tools->Boards.
 Check the sketch with the ✔ button. If no errors show up upload the sketch to your printer.
@@ -45,7 +45,6 @@ I'm not responsible for any damage done to your printer or lcd.
 # Things i noticed:
 
 It looks like there are different versions of the screen in circulation. Mine is "DMT48270M050_06W". [But i found screenshots of others with different versions](https://i2.wp.com/3dprinterwiki.info/wp-content/uploads/2016/09/IMG_8041.jpeg). I think they should all be compatible, but if it's not working on your screen, this may or may not be the cause.
-
 
 
 # Based on i3Extra by nepeee:
